@@ -1,0 +1,109 @@
+﻿==============================================
+  CAT FANTASY SURVIVORS  (Alfa)  -  versão 0.0.31
+==============================================
+
+Obrigado por testar! Este é um jogo no estilo Vampire Survivors:
+você controla o herói, as habilidades atacam sozinhas e o objetivo
+é sobreviver à horda por 10 minutos e derrotar o chefão da fase.
+
+
+----------------------------------------------
+  COMO INSTALAR E RODAR (Windows)
+----------------------------------------------
+
+1. Extraia o arquivo .zip
+   Clique com o botão direito em "CatFantasySurvivors-<versão>.zip" > "Extrair tudo..."
+   e confirme. NÃO abra o jogo direto de dentro do .zip, senão o
+   progresso não é salvo.
+
+2. Coloque a pasta extraída num lugar comum
+   (Documentos, Área de Trabalho...). Evite "Arquivos de Programas".
+
+3. Dê dois cliques em "CatFantasySurvivors.exe"
+   A primeira abertura pode levar alguns segundos.
+
+4. Se aparecer "O Windows protegeu o computador":
+   clique em "Mais informações" e depois em "Executar assim mesmo".
+   O aviso aparece porque o jogo não tem assinatura digital
+   (só acontece na primeira vez).
+
+5. Se o antivírus bloquear o arquivo:
+   isso é comum em jogos feitos em Python. Restaure o arquivo da
+   quarentena e adicione uma exceção para ele no antivírus.
+
+Requisitos: Windows 10 ou 11. Não é preciso instalar mais nada.
+
+Idioma: o jogo abre em inglês. Para jogar em português, vá em
+Configurations > Language > Português.
+
+
+----------------------------------------------
+  CONTROLES
+----------------------------------------------
+
+  WASD / setas ......... mover o herói
+  ESPAÇO ............... esquiva (Investida / Esquiva / Blink, conforme a classe)
+  1, 2, 3 / clique ..... escolher melhoria ao subir de nível
+  ESC .................. pausar (no pause, Q encerra a run
+                         e a party mantém a EXP)
+  TAB .................. trocar a aba do medidor de dano
+                         (Damage / Taken / Healing)
+  Mouse sobre ícones ... detalhes das habilidades
+
+As habilidades disparam sozinhas. Os outros membros da party
+agem por conta própria.
+
+Dúvidas sobre as regras (atributos, classes, dano, builds,
+elites, fases...): botão Wiki no canto superior esquerdo da
+tela inicial (ou tecla F1).
+
+
+----------------------------------------------
+  PROGRESSO E ATUALIZAÇÕES
+----------------------------------------------
+
+- São 3 espaços de save: "save.json" (Save 1), "save2.json" e
+  "save3.json", criados na mesma pasta do .exe. As configurações
+  (e o último save usado) ficam em "settings.json".
+
+- No menu principal: Continuar (último save usado), Novo Save
+  (cria um save do zero num espaço) e Carregar Save (escolhe um
+  dos 3 saves, com um resumo do progresso de cada um).
+
+- Para atualizar o jogo, substitua só o "CatFantasySurvivors.exe"
+  pela versão nova e mantenha os arquivos "save*.json" na pasta
+  para não perder o progresso.
+
+
+----------------------------------------------
+  VERSÃO WEB (NAVEGADOR / CELULAR)
+----------------------------------------------
+
+O jogo também roda no navegador, inclusive no celular (deitado).
+
+  Arrastar no lado esquerdo .. andar (joystick virtual)
+  Botão redondo (dir.) ....... esquiva
+  Botão II (canto sup.) ...... pausar
+  Toque ...................... clique em todos os menus
+  Arrastar cima/baixo ........ rolar listas
+
+O progresso da versão web fica salvo no próprio navegador
+(separado do save.json do PC).
+
+Para gerar a versão web (no PC, na pasta do jogo):
+  pip install pygbag openpyxl
+  python build_web.py
+O site fica em web\fantasy_survivors\build\web e o arquivo para
+enviar ao itch.io em web\fantasy_survivors\build\CatFantasySurvivors-web-<versão>.zip.
+
+
+----------------------------------------------
+  OBSERVAÇÕES
+----------------------------------------------
+
+Esta é uma versão Alfa: espere bugs, balanceamento
+provisório e conteúdo incompleto.
+
+Encontrou um bug ou tem sugestões? Mande para quem te enviou o jogo!
+
+Fonte: Jersey 10 (The Soft Type Project Authors), licença SIL Open Font License 1.1 (OFL-Jersey10.txt).

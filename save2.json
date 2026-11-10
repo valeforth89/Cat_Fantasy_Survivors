@@ -1,0 +1,471 @@
+{
+  "gold": 1,
+  "recruits": 4,
+  "stages_cleared": 0,
+  "stage": 0,
+  "fragments": {
+    "freelancer": 38.0,
+    "lancer": 9.0,
+    "thaumaturge": 4.0,
+    "rogue": 3.0,
+    "archer": 13.0,
+    "marauder": 5.0,
+    "arcanist": 13.0,
+    "pugilist": 9.0,
+    "gladiator": 2.0
+  },
+  "endless_best": {},
+  "trophies": [],
+  "trophies_on": [],
+  "altar": {},
+  "gear": {},
+  "acc_owned": {},
+  "acc_frags": {
+    "ring": 0,
+    "bracer": 0,
+    "trinket": 0,
+    "neck": 0,
+    "emblem": 0
+  },
+  "dungeon_lv": {
+    "cavern": 1,
+    "catacomb": 1,
+    "dungeon": 1
+  },
+  "rift_lv": 1,
+  "unlocks": [
+    "chest"
+  ],
+  "tips_seen": [
+    "chest",
+    "classes",
+    "loadout",
+    "party",
+    "run",
+    "stages",
+    "welcome"
+  ],
+  "greed": {},
+  "materials": {
+    "bat_wing": 142,
+    "wolf_fur": 72
+  },
+  "craft_owned": {},
+  "members": [
+    {
+      "name": "Hero",
+      "hero": true,
+      "level": 14,
+      "exp": 1009,
+      "cls": "thaumaturge",
+      "class_levels": {
+        "freelancer": [
+          10,
+          106
+        ],
+        "lancer": [
+          15,
+          91
+        ],
+        "thaumaturge": [
+          1,
+          0
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A04"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P03",
+            "freelancer:P04",
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "lancer": {
+          "active": [
+            "lancer:A01",
+            "lancer:A02",
+            "lancer:A03",
+            "lancer:A04"
+          ],
+          "passive": [
+            "lancer:P01",
+            "lancer:P02",
+            "lancer:P03",
+            null,
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "thaumaturge": {
+          "active": [
+            "thaumaturge:A01",
+            null,
+            null,
+            null
+          ],
+          "passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {},
+      "craft": {},
+      "look": {
+        "fur": 7,
+        "pattern": 3,
+        "mark": 5,
+        "eyes": 5,
+        "tail": 1,
+        "ears": 1
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Milo",
+      "hero": false,
+      "level": 14,
+      "exp": 420,
+      "cls": "archer",
+      "class_levels": {
+        "freelancer": [
+          10,
+          115
+        ],
+        "archer": [
+          14,
+          153
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A04"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P03",
+            "freelancer:P04",
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "archer": {
+          "active": [
+            "archer:A01",
+            "archer:A02",
+            "archer:A03",
+            null
+          ],
+          "passive": [
+            "archer:P01",
+            "archer:P02",
+            "archer:P03",
+            null,
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {},
+      "craft": {},
+      "look": {
+        "fur": 7,
+        "pattern": 0,
+        "mark": 7,
+        "eyes": 7,
+        "tail": 2,
+        "ears": 2
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Gaia",
+      "hero": false,
+      "level": 13,
+      "exp": 331,
+      "cls": "conjurer",
+      "class_levels": {
+        "freelancer": [
+          10,
+          105
+        ],
+        "conjurer": [
+          12,
+          186
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A04"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P03",
+            "freelancer:P04",
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "conjurer": {
+          "active": [
+            "conjurer:A01",
+            "conjurer:A02",
+            "conjurer:A03",
+            null
+          ],
+          "passive": [
+            "conjurer:P01",
+            "conjurer:P02",
+            null,
+            null,
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {},
+      "craft": {},
+      "look": {
+        "fur": 3,
+        "pattern": 3,
+        "mark": 6,
+        "eyes": 4,
+        "tail": 1,
+        "ears": 1
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Pia",
+      "hero": false,
+      "level": 10,
+      "exp": 485,
+      "cls": "arcanist",
+      "class_levels": {
+        "freelancer": [
+          10,
+          53
+        ],
+        "arcanist": [
+          7,
+          12
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A04"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P03",
+            "freelancer:P04",
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "arcanist": {
+          "active": [
+            "arcanist:A01",
+            "arcanist:A02",
+            null,
+            null
+          ],
+          "passive": [
+            "arcanist:P01",
+            null,
+            null,
+            null,
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {},
+      "craft": {},
+      "look": {
+        "fur": 4,
+        "pattern": 2,
+        "mark": 11,
+        "eyes": 4,
+        "tail": 2,
+        "ears": 2
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Wren",
+      "hero": false,
+      "level": 1,
+      "exp": 0,
+      "cls": "freelancer",
+      "class_levels": {
+        "freelancer": [
+          1,
+          0
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            null,
+            null,
+            null
+          ],
+          "passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {},
+      "craft": {},
+      "look": {
+        "fur": 1,
+        "pattern": 3,
+        "mark": 10,
+        "eyes": 3,
+        "tail": 0,
+        "ears": 1
+      },
+      "loadout_version": 2
+    }
+  ]
+}

@@ -1,0 +1,3039 @@
+{
+  "gold": 226,
+  "recruits": 4,
+  "stages_cleared": 20,
+  "stage": 99,
+  "fragments": {
+    "white_mage": 1848.214,
+    "lancer": 1629.314,
+    "hunter": 1590.295,
+    "paladin": 1476.705,
+    "bard": 3427.545,
+    "bishop": 1775.374,
+    "arcanist": 2999.844,
+    "thaumaturge": 1744.537,
+    "black_mage": 2361.048,
+    "time_mage": 1897.496,
+    "spellblade": 2581.534,
+    "rogue": 1659.431,
+    "gladiator": 2318.361,
+    "archer": 2372.162,
+    "conjurer": 2248.949,
+    "freelancer": 2174.212,
+    "marauder": 1933.335,
+    "pugilist": 3254.146,
+    "scholar": 1673.887,
+    "assassin": 1670.253,
+    "ninja": 2255.667,
+    "warrior": 1829.343,
+    "berserker": 1501.903,
+    "summoner": 4069.341,
+    "dragoon": 2938.196,
+    "templar": 1512.11,
+    "white_monk": 1635.092,
+    "monk": 3675.753,
+    "freelancer_t2": 1677.081,
+    "warfarer": 111.52
+  },
+  "endless_best": {
+    "forest": 1145.6710000003923,
+    "rift": 305.9510000000027
+  },
+  "trophies": [
+    "tusk",
+    "sap",
+    "silk",
+    "fang",
+    "heart",
+    "crown",
+    "dagger",
+    "mask",
+    "helm",
+    "ledger",
+    "gheart",
+    "seal",
+    "prism",
+    "rosary",
+    "halo",
+    "egg",
+    "sack",
+    "ooze",
+    "core",
+    "scale"
+  ],
+  "trophies_on": [
+    "tusk",
+    "sap",
+    "silk",
+    "fang",
+    "crown",
+    "dagger",
+    "mask",
+    "helm",
+    "ledger",
+    "gheart",
+    "seal",
+    "prism",
+    "rosary",
+    "halo",
+    "egg",
+    "sack",
+    "ooze",
+    "core",
+    "scale",
+    "heart"
+  ],
+  "altar": {
+    "freelancer": 11,
+    "archer": 11,
+    "bard": 11,
+    "hunter": 11,
+    "dragoon": 11,
+    "thaumaturge": 11,
+    "black_mage": 11,
+    "time_mage": 11,
+    "arcanist": 11,
+    "summoner": 11,
+    "pugilist": 11,
+    "lancer": 11,
+    "rogue": 12,
+    "conjurer": 12,
+    "gladiator": 11,
+    "marauder": 11,
+    "warrior": 11,
+    "scholar": 11,
+    "monk": 11,
+    "white_monk": 11,
+    "templar": 11,
+    "ninja": 11,
+    "assassin": 11,
+    "white_mage": 11,
+    "bishop": 11,
+    "paladin": 11,
+    "spellblade": 10,
+    "berserker": 11,
+    "freelancer_t2": 9,
+    "warfarer": 10
+  },
+  "gear": {
+    "dragoon": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "thaumaturge": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "white_mage": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "bard": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "warrior": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "freelancer": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "archer": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "hunter": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "arcanist": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "pugilist": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "lancer": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "rogue": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "conjurer": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "gladiator": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "marauder": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "black_mage": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "time_mage": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "summoner": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "scholar": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "monk": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "white_monk": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "templar": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "ninja": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "assassin": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "bishop": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "paladin": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "spellblade": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "berserker": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "freelancer_t2": {
+      "weapon": 10,
+      "helmet": 10
+    },
+    "warfarer": {
+      "weapon": 10,
+      "helmet": 9
+    }
+  },
+  "acc_owned": {
+    "n_freelancer": 5,
+    "n_archer": 5,
+    "n_bard": 5,
+    "n_hunter": 5,
+    "n_thaumaturge": 5,
+    "n_black_mage": 5,
+    "n_time_mage": 5,
+    "n_arcanist": 5,
+    "n_pugilist": 5,
+    "n_lancer": 5,
+    "n_dragoon": 5,
+    "n_templar": 5,
+    "n_rogue": 5,
+    "n_conjurer": 5,
+    "n_white_mage": 5,
+    "n_bishop": 5,
+    "n_gladiator": 5,
+    "n_marauder": 5,
+    "n_warrior": 5,
+    "n_berserker": 5,
+    "b_pyre": 0,
+    "t_storm": 0,
+    "r_might": 0,
+    "r_slash_dmg": 0,
+    "r_blunt_dmg": 0,
+    "b_thorns": 0,
+    "t_quake": 0,
+    "e_guard": 0,
+    "e_dawn": 0,
+    "r_holy_dmg": 0,
+    "e_blood": 0,
+    "b_butcher": 0,
+    "t_static": 0,
+    "t_lucky": 0,
+    "t_vampfang": 0,
+    "e_embers": 0,
+    "r_haste": 0,
+    "b_opportunist": 0,
+    "n_freelancer_t2": 5,
+    "n_summoner": 5,
+    "n_monk": 5,
+    "r_slash_crit": 0,
+    "r_slash_cd": 0,
+    "r_piercing_dmg": 0,
+    "r_piercing_crit": 0,
+    "r_piercing_cd": 0,
+    "r_blunt_crit": 0,
+    "r_blunt_cd": 0,
+    "r_fire_dmg": 0,
+    "r_fire_crit": 0,
+    "r_fire_cd": 0,
+    "r_ice_dmg": 0,
+    "r_ice_crit": 0,
+    "r_ice_cd": 0,
+    "r_lightning_dmg": 0,
+    "r_lightning_crit": 0,
+    "r_lightning_cd": 0,
+    "r_holy_crit": 0,
+    "r_holy_cd": 0,
+    "r_arcane_dmg": 0,
+    "r_arcane_crit": 0,
+    "r_arcane_cd": 0,
+    "r_precision": 0,
+    "r_ruin": 0,
+    "r_iron": 0,
+    "r_mystic": 0,
+    "b_frostbite": 0,
+    "b_venom": 0,
+    "b_concussion": 0,
+    "b_hobble": 0,
+    "b_prism": 0,
+    "b_momentum": 0,
+    "b_kindling": 0,
+    "b_bloodletter": 0,
+    "b_glacial": 0,
+    "b_tempest": 0,
+    "b_hunter": 0,
+    "b_executioner": 0,
+    "b_ambusher": 0,
+    "b_siphon": 0,
+    "b_rampage": 0,
+    "b_detonation": 0,
+    "b_bulwark": 0,
+    "b_reaper": 0,
+    "b_toxin": 0,
+    "t_meteor": 0,
+    "t_frostheart": 0,
+    "t_plague": 0,
+    "t_chalice": 0,
+    "t_drum": 0,
+    "t_relic": 0,
+    "t_orb": 0,
+    "t_hourglass": 0,
+    "t_phoenix": 0,
+    "t_totem": 0,
+    "t_chime": 0,
+    "t_echo": 0,
+    "t_warhorn": 0,
+    "t_ember": 0,
+    "t_gale": 0,
+    "t_lantern": 0,
+    "t_censer": 0,
+    "t_geode": 0,
+    "n_scholar": 5,
+    "n_white_monk": 5,
+    "n_ninja": 5,
+    "n_assassin": 5,
+    "n_paladin": 5,
+    "n_spellblade": 5,
+    "n_warfarer": 0,
+    "e_frost": 0,
+    "e_venom": 0,
+    "e_shatter": 0,
+    "e_snare": 0,
+    "e_hunt": 0,
+    "e_thunder": 0,
+    "e_war": 0,
+    "e_fervor": 0,
+    "e_tide": 0,
+    "e_mercy": 0,
+    "e_swift": 0,
+    "e_reach": 0,
+    "e_focus": 0,
+    "e_sharp": 1,
+    "e_life": 0,
+    "e_crusade": 0,
+    "e_ruin": 0,
+    "e_seeker": 0,
+    "e_depths": 0
+  },
+  "acc_frags": {
+    "ring": 8,
+    "bracer": 11,
+    "trinket": 3,
+    "neck": 0,
+    "emblem": 1
+  },
+  "dungeon_lv": {
+    "cavern": 15,
+    "catacomb": 10,
+    "dungeon": 2
+  },
+  "rift_lv": 1,
+  "unlocks": [
+    "altar",
+    "chest",
+    "craft",
+    "dungeons",
+    "greed",
+    "jeweler",
+    "mastery",
+    "smith"
+  ],
+  "tips_seen": [
+    "altar",
+    "chest",
+    "classes",
+    "craft",
+    "dungeons",
+    "endless",
+    "greed",
+    "jeweler",
+    "loadout",
+    "mastery",
+    "party",
+    "rift",
+    "run",
+    "smith",
+    "stages",
+    "training",
+    "welcome"
+  ],
+  "greed": {
+    "cdr": 10,
+    "dodge": 10,
+    "critdmg": 18,
+    "crit": 10,
+    "area": 12,
+    "range": 15,
+    "atk": 11,
+    "def": 10,
+    "hp": 10
+  },
+  "materials": {
+    "bat_wing": 16,
+    "beetle_shell": 7,
+    "rat_tail": 7,
+    "wisp_spark": 10,
+    "wolf_fur": 8,
+    "haunted_steel": 4,
+    "goblin_ore": 11,
+    "slime_gel": 6,
+    "cultist_silk": 7,
+    "ghoul_claw": 2,
+    "skel_bone": 3,
+    "hound_fang": 4
+  },
+  "craft_owned": {},
+  "members": [
+    {
+      "name": "Valeforth",
+      "hero": true,
+      "level": 287,
+      "exp": 156783,
+      "cls": "bard",
+      "class_levels": {
+        "freelancer": [
+          110,
+          0
+        ],
+        "gladiator": [
+          100,
+          0
+        ],
+        "marauder": [
+          100,
+          0
+        ],
+        "lancer": [
+          100,
+          0
+        ],
+        "dragoon": [
+          100,
+          0
+        ],
+        "templar": [
+          100,
+          0
+        ],
+        "archer": [
+          100,
+          0
+        ],
+        "thaumaturge": [
+          100,
+          0
+        ],
+        "arcanist": [
+          100,
+          0
+        ],
+        "pugilist": [
+          109,
+          0
+        ],
+        "rogue": [
+          111,
+          0
+        ],
+        "conjurer": [
+          110,
+          0
+        ],
+        "freelancer_t2": [
+          100,
+          0
+        ],
+        "bard": [
+          111,
+          0
+        ],
+        "warfarer": [
+          100,
+          0
+        ],
+        "hunter": [
+          100,
+          0
+        ],
+        "black_mage": [
+          100,
+          0
+        ],
+        "time_mage": [
+          100,
+          0
+        ],
+        "summoner": [
+          100,
+          0
+        ],
+        "scholar": [
+          100,
+          0
+        ],
+        "monk": [
+          100,
+          0
+        ],
+        "white_monk": [
+          100,
+          0
+        ],
+        "ninja": [
+          100,
+          0
+        ],
+        "assassin": [
+          100,
+          0
+        ],
+        "white_mage": [
+          100,
+          0
+        ],
+        "bishop": [
+          100,
+          0
+        ],
+        "paladin": [
+          100,
+          0
+        ],
+        "spellblade": [
+          100,
+          0
+        ],
+        "warrior": [
+          100,
+          0
+        ],
+        "berserker": [
+          100,
+          0
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A06"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P05",
+            "freelancer:P06",
+            "freelancer:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "gladiator": {
+          "active": [
+            "gladiator:A10",
+            "gladiator:A09",
+            "gladiator:A07",
+            "gladiator:A01"
+          ],
+          "passive": [
+            "gladiator:P01",
+            "gladiator:P02",
+            "gladiator:P03",
+            "gladiator:P04",
+            "gladiator:P10"
+          ],
+          "extra_active": [
+            "freelancer:A08",
+            "freelancer:A06"
+          ],
+          "extra_passive": [
+            "freelancer:P05",
+            "freelancer:P08",
+            "freelancer:P07",
+            "freelancer:P03",
+            null
+          ]
+        },
+        "marauder": {
+          "active": [
+            "marauder:A05",
+            "marauder:A02",
+            "marauder:A07",
+            "marauder:A10"
+          ],
+          "passive": [
+            "marauder:P01",
+            "marauder:P02",
+            "marauder:P03",
+            "marauder:P04",
+            "marauder:P10"
+          ],
+          "extra_active": [
+            "gladiator:A10",
+            "gladiator:A07"
+          ],
+          "extra_passive": [
+            "freelancer:P02",
+            "freelancer:P06",
+            "gladiator:P02",
+            "gladiator:P01",
+            "freelancer:P10"
+          ]
+        },
+        "lancer": {
+          "active": [
+            "lancer:A01",
+            "lancer:A02",
+            "lancer:A03",
+            "lancer:A04"
+          ],
+          "passive": [
+            "lancer:P01",
+            "lancer:P02",
+            "lancer:P03",
+            "lancer:P04",
+            "lancer:P10"
+          ],
+          "extra_active": [
+            "freelancer:A05",
+            "marauder:A07"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "freelancer:P09",
+            "gladiator:P01",
+            "gladiator:P04",
+            "marauder:P10"
+          ]
+        },
+        "berserker": {
+          "active": [
+            "berserker:A01",
+            null,
+            null,
+            null
+          ],
+          "passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "extra_active": [
+            "marauder:A07",
+            "marauder:A02"
+          ],
+          "extra_passive": [
+            "freelancer:P02",
+            "gladiator:P08",
+            "freelancer:P01",
+            "freelancer:P08",
+            "marauder:P10"
+          ]
+        },
+        "dragoon": {
+          "active": [
+            "dragoon:A01",
+            "dragoon:A02",
+            "dragoon:A03",
+            "dragoon:A04"
+          ],
+          "passive": [
+            "dragoon:P01",
+            "dragoon:P02",
+            "dragoon:P03",
+            "dragoon:P04",
+            "dragoon:P10"
+          ],
+          "extra_active": [
+            "lancer:A10",
+            "lancer:A09"
+          ],
+          "extra_passive": [
+            "lancer:P01",
+            "lancer:P02",
+            "lancer:P06",
+            "marauder:P01",
+            "lancer:P10"
+          ]
+        },
+        "templar": {
+          "active": [
+            "templar:A01",
+            "templar:A02",
+            "templar:A03",
+            "templar:A04"
+          ],
+          "passive": [
+            "templar:P01",
+            "templar:P02",
+            "templar:P03",
+            "templar:P04",
+            "templar:P10"
+          ],
+          "extra_active": [
+            "dragoon:A03",
+            "dragoon:A08"
+          ],
+          "extra_passive": [
+            "dragoon:P02",
+            "dragoon:P01",
+            "dragoon:P03",
+            "dragoon:P05",
+            "dragoon:P10"
+          ]
+        },
+        "spellblade": {
+          "active": [
+            "spellblade:A01",
+            null,
+            null,
+            null
+          ],
+          "passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "archer": {
+          "active": [
+            "archer:A01",
+            "archer:A02",
+            "archer:A03",
+            "archer:A04"
+          ],
+          "passive": [
+            "archer:P01",
+            "archer:P02",
+            "archer:P03",
+            "archer:P04",
+            "archer:P10"
+          ],
+          "extra_active": [
+            "dragoon:A03",
+            "dragoon:A08"
+          ],
+          "extra_passive": [
+            "dragoon:P02",
+            "dragoon:P01",
+            "dragoon:P03",
+            "dragoon:P05",
+            "dragoon:P10"
+          ]
+        },
+        "thaumaturge": {
+          "active": [
+            "thaumaturge:A01",
+            "thaumaturge:A02",
+            "thaumaturge:A03",
+            "thaumaturge:A04"
+          ],
+          "passive": [
+            "thaumaturge:P01",
+            "thaumaturge:P02",
+            "thaumaturge:P03",
+            "thaumaturge:P04",
+            "thaumaturge:P10"
+          ],
+          "extra_active": [
+            "dragoon:A03",
+            "dragoon:A08"
+          ],
+          "extra_passive": [
+            "dragoon:P02",
+            "dragoon:P01",
+            "dragoon:P03",
+            "dragoon:P05",
+            "dragoon:P10"
+          ]
+        },
+        "arcanist": {
+          "active": [
+            "arcanist:A01",
+            "arcanist:A02",
+            "arcanist:A03",
+            "arcanist:A04"
+          ],
+          "passive": [
+            "arcanist:P01",
+            "arcanist:P02",
+            "arcanist:P03",
+            "arcanist:P04",
+            "arcanist:P10"
+          ],
+          "extra_active": [
+            "dragoon:A03",
+            "dragoon:A08"
+          ],
+          "extra_passive": [
+            "dragoon:P02",
+            "dragoon:P01",
+            "dragoon:P03",
+            "dragoon:P05",
+            "dragoon:P10"
+          ]
+        },
+        "pugilist": {
+          "active": [
+            "pugilist:A01",
+            "pugilist:A02",
+            "pugilist:A03",
+            "pugilist:A04"
+          ],
+          "passive": [
+            "pugilist:P01",
+            "pugilist:P02",
+            "pugilist:P03",
+            "pugilist:P04",
+            "pugilist:P10"
+          ],
+          "extra_active": [
+            "dragoon:A03",
+            "dragoon:A08"
+          ],
+          "extra_passive": [
+            "dragoon:P02",
+            "dragoon:P01",
+            "dragoon:P03",
+            "dragoon:P05",
+            "dragoon:P10"
+          ]
+        },
+        "rogue": {
+          "active": [
+            "rogue:A01",
+            "rogue:A02",
+            "rogue:A03",
+            "rogue:A04"
+          ],
+          "passive": [
+            "rogue:P01",
+            "rogue:P02",
+            "rogue:P03",
+            "rogue:P04",
+            "rogue:P10"
+          ],
+          "extra_active": [
+            "dragoon:A03",
+            "dragoon:A08"
+          ],
+          "extra_passive": [
+            "dragoon:P02",
+            "dragoon:P01",
+            "dragoon:P03",
+            "dragoon:P05",
+            "dragoon:P10"
+          ]
+        },
+        "conjurer": {
+          "active": [
+            "conjurer:A01",
+            "conjurer:A02",
+            "conjurer:A03",
+            "conjurer:A04"
+          ],
+          "passive": [
+            "conjurer:P01",
+            "conjurer:P02",
+            "conjurer:P03",
+            "conjurer:P04",
+            "conjurer:P10"
+          ],
+          "extra_active": [
+            "dragoon:A03",
+            "dragoon:A08"
+          ],
+          "extra_passive": [
+            "dragoon:P02",
+            "dragoon:P01",
+            "dragoon:P03",
+            "dragoon:P05",
+            "dragoon:P10"
+          ]
+        },
+        "freelancer_t2": {
+          "active": [
+            "freelancer_t2:A01",
+            "freelancer_t2:A02",
+            "freelancer_t2:A03",
+            "freelancer_t2:A04"
+          ],
+          "passive": [
+            "freelancer_t2:P01",
+            "freelancer_t2:P02",
+            "freelancer_t2:P03",
+            "freelancer_t2:P04",
+            "freelancer_t2:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "bard": {
+          "active": [
+            "bard:A02",
+            "bard:A06",
+            "bard:A07",
+            "bard:A10"
+          ],
+          "passive": [
+            "bard:P07",
+            "bard:P06",
+            "bard:P02",
+            "bard:P01",
+            "bard:P10"
+          ],
+          "extra_active": [
+            "freelancer:A08",
+            "warrior:A03"
+          ],
+          "extra_passive": [
+            "archer:P01",
+            "pugilist:P01",
+            "rogue:P01",
+            "monk:P01",
+            "conjurer:P10"
+          ]
+        }
+      },
+      "acc": {
+        "neck": "n_bard",
+        "emblem": "e_sharp"
+      },
+      "craft": {},
+      "look": {
+        "fur": 4,
+        "pattern": 0,
+        "mark": 8,
+        "eyes": 6,
+        "tail": 0,
+        "ears": 1
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Beigarth",
+      "hero": false,
+      "level": 287,
+      "exp": 156276,
+      "cls": "dragoon",
+      "class_levels": {
+        "freelancer": [
+          110,
+          0
+        ],
+        "conjurer": [
+          100,
+          0
+        ],
+        "arcanist": [
+          100,
+          0
+        ],
+        "thaumaturge": [
+          100,
+          0
+        ],
+        "black_mage": [
+          111,
+          0
+        ],
+        "time_mage": [
+          100,
+          0
+        ],
+        "archer": [
+          100,
+          0
+        ],
+        "pugilist": [
+          100,
+          0
+        ],
+        "lancer": [
+          100,
+          0
+        ],
+        "rogue": [
+          109,
+          0
+        ],
+        "gladiator": [
+          110,
+          0
+        ],
+        "marauder": [
+          110,
+          0
+        ],
+        "freelancer_t2": [
+          100,
+          0
+        ],
+        "warfarer": [
+          100,
+          0
+        ],
+        "bard": [
+          100,
+          0
+        ],
+        "hunter": [
+          100,
+          0
+        ],
+        "summoner": [
+          100,
+          0
+        ],
+        "scholar": [
+          100,
+          0
+        ],
+        "monk": [
+          100,
+          0
+        ],
+        "white_monk": [
+          100,
+          0
+        ],
+        "dragoon": [
+          111,
+          0
+        ],
+        "templar": [
+          100,
+          0
+        ],
+        "ninja": [
+          100,
+          0
+        ],
+        "assassin": [
+          100,
+          0
+        ],
+        "white_mage": [
+          100,
+          0
+        ],
+        "bishop": [
+          100,
+          0
+        ],
+        "paladin": [
+          100,
+          0
+        ],
+        "spellblade": [
+          100,
+          0
+        ],
+        "warrior": [
+          100,
+          0
+        ],
+        "berserker": [
+          100,
+          0
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A06"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P05",
+            "freelancer:P06",
+            "freelancer:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "conjurer": {
+          "active": [
+            "conjurer:A01",
+            "conjurer:A02",
+            "conjurer:A03",
+            "conjurer:A04"
+          ],
+          "passive": [
+            "conjurer:P01",
+            "conjurer:P02",
+            "conjurer:P03",
+            "conjurer:P04",
+            "conjurer:P10"
+          ],
+          "extra_active": [
+            "freelancer:A10",
+            "freelancer:A09"
+          ],
+          "extra_passive": [
+            "freelancer:P02",
+            "freelancer:P01",
+            "freelancer:P03",
+            "freelancer:P07",
+            null
+          ]
+        },
+        "arcanist": {
+          "active": [
+            "arcanist:A01",
+            "arcanist:A02",
+            "arcanist:A03",
+            "arcanist:A04"
+          ],
+          "passive": [
+            "arcanist:P01",
+            "arcanist:P02",
+            "arcanist:P03",
+            "arcanist:P04",
+            "arcanist:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "thaumaturge": {
+          "active": [
+            "thaumaturge:A01",
+            "thaumaturge:A02",
+            "thaumaturge:A03",
+            "thaumaturge:A04"
+          ],
+          "passive": [
+            "thaumaturge:P01",
+            "thaumaturge:P02",
+            "thaumaturge:P03",
+            "thaumaturge:P04",
+            "thaumaturge:P10"
+          ],
+          "extra_active": [
+            "arcanist:A01",
+            "arcanist:A03"
+          ],
+          "extra_passive": [
+            "freelancer:P08",
+            "freelancer:P09",
+            "arcanist:P02",
+            "arcanist:P01",
+            "arcanist:P10"
+          ]
+        },
+        "black_mage": {
+          "active": [
+            "black_mage:A01",
+            "black_mage:A02",
+            "black_mage:A03",
+            "black_mage:A04"
+          ],
+          "passive": [
+            "black_mage:P01",
+            "black_mage:P02",
+            "black_mage:P03",
+            "black_mage:P04",
+            "black_mage:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "time_mage": {
+          "active": [
+            "time_mage:A01",
+            "time_mage:A02",
+            "time_mage:A03",
+            "time_mage:A04"
+          ],
+          "passive": [
+            "time_mage:P01",
+            "time_mage:P02",
+            "time_mage:P03",
+            "time_mage:P04",
+            "time_mage:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "archer": {
+          "active": [
+            "archer:A01",
+            "archer:A02",
+            "archer:A03",
+            "archer:A04"
+          ],
+          "passive": [
+            "archer:P01",
+            "archer:P02",
+            "archer:P03",
+            "archer:P04",
+            "archer:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "pugilist": {
+          "active": [
+            "pugilist:A01",
+            "pugilist:A02",
+            "pugilist:A03",
+            "pugilist:A04"
+          ],
+          "passive": [
+            "pugilist:P01",
+            "pugilist:P02",
+            "pugilist:P03",
+            "pugilist:P04",
+            "pugilist:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "lancer": {
+          "active": [
+            "lancer:A01",
+            "lancer:A02",
+            "lancer:A03",
+            "lancer:A04"
+          ],
+          "passive": [
+            "lancer:P01",
+            "lancer:P02",
+            "lancer:P03",
+            "lancer:P04",
+            "lancer:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "rogue": {
+          "active": [
+            "rogue:A01",
+            "rogue:A02",
+            "rogue:A03",
+            "rogue:A04"
+          ],
+          "passive": [
+            "rogue:P01",
+            "rogue:P02",
+            "rogue:P03",
+            "rogue:P04",
+            "rogue:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "gladiator": {
+          "active": [
+            "gladiator:A01",
+            "gladiator:A02",
+            "gladiator:A03",
+            "gladiator:A04"
+          ],
+          "passive": [
+            "gladiator:P01",
+            "gladiator:P02",
+            "gladiator:P03",
+            "gladiator:P04",
+            "gladiator:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "marauder": {
+          "active": [
+            "marauder:A01",
+            "marauder:A02",
+            "marauder:A03",
+            "marauder:A04"
+          ],
+          "passive": [
+            "marauder:P01",
+            "marauder:P02",
+            "marauder:P03",
+            "marauder:P04",
+            "marauder:P10"
+          ],
+          "extra_active": [
+            "thaumaturge:A10",
+            "thaumaturge:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        },
+        "freelancer_t2": {
+          "active": [
+            "freelancer_t2:A01",
+            "freelancer_t2:A02",
+            "freelancer_t2:A03",
+            "freelancer_t2:A04"
+          ],
+          "passive": [
+            "freelancer_t2:P01",
+            "freelancer_t2:P02",
+            "freelancer_t2:P03",
+            "freelancer_t2:P04",
+            "freelancer_t2:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "dragoon": {
+          "active": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "passive": [
+            "dragoon:P01",
+            "dragoon:P02",
+            "dragoon:P03",
+            "dragoon:P04",
+            "dragoon:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "thaumaturge:P07",
+            "thaumaturge:P02",
+            "thaumaturge:P01",
+            "thaumaturge:P10"
+          ]
+        }
+      },
+      "acc": {
+        "neck": "n_freelancer"
+      },
+      "craft": {},
+      "look": {
+        "fur": 2,
+        "pattern": 2,
+        "mark": 9,
+        "eyes": 4,
+        "tail": 0,
+        "ears": 2
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Gadir",
+      "hero": false,
+      "level": 287,
+      "exp": 155748,
+      "cls": "summoner",
+      "class_levels": {
+        "freelancer": [
+          110,
+          0
+        ],
+        "arcanist": [
+          100,
+          0
+        ],
+        "thaumaturge": [
+          100,
+          0
+        ],
+        "conjurer": [
+          100,
+          0
+        ],
+        "white_mage": [
+          100,
+          0
+        ],
+        "bishop": [
+          100,
+          0
+        ],
+        "archer": [
+          100,
+          0
+        ],
+        "pugilist": [
+          100,
+          0
+        ],
+        "lancer": [
+          100,
+          0
+        ],
+        "rogue": [
+          109,
+          0
+        ],
+        "gladiator": [
+          110,
+          0
+        ],
+        "marauder": [
+          110,
+          0
+        ],
+        "freelancer_t2": [
+          100,
+          0
+        ],
+        "summoner": [
+          111,
+          0
+        ],
+        "warfarer": [
+          100,
+          0
+        ],
+        "bard": [
+          100,
+          0
+        ],
+        "hunter": [
+          100,
+          0
+        ],
+        "black_mage": [
+          100,
+          0
+        ],
+        "time_mage": [
+          100,
+          0
+        ],
+        "scholar": [
+          100,
+          0
+        ],
+        "monk": [
+          100,
+          0
+        ],
+        "white_monk": [
+          100,
+          0
+        ],
+        "dragoon": [
+          100,
+          0
+        ],
+        "templar": [
+          100,
+          0
+        ],
+        "ninja": [
+          100,
+          0
+        ],
+        "assassin": [
+          100,
+          0
+        ],
+        "paladin": [
+          100,
+          0
+        ],
+        "spellblade": [
+          100,
+          0
+        ],
+        "warrior": [
+          100,
+          0
+        ],
+        "berserker": [
+          100,
+          0
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A06"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P05",
+            "freelancer:P06",
+            "freelancer:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "arcanist": {
+          "active": [
+            "arcanist:A01",
+            "arcanist:A02",
+            "arcanist:A03",
+            "arcanist:A04"
+          ],
+          "passive": [
+            "arcanist:P01",
+            "arcanist:P02",
+            "arcanist:P03",
+            "arcanist:P04",
+            "arcanist:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "thaumaturge": {
+          "active": [
+            "thaumaturge:A01",
+            "thaumaturge:A02",
+            "thaumaturge:A03",
+            "thaumaturge:A04"
+          ],
+          "passive": [
+            "thaumaturge:P01",
+            "thaumaturge:P02",
+            "thaumaturge:P03",
+            "thaumaturge:P04",
+            "thaumaturge:P10"
+          ],
+          "extra_active": [
+            "freelancer:A08",
+            "freelancer:A10"
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "conjurer": {
+          "active": [
+            "conjurer:A01",
+            "conjurer:A02",
+            "conjurer:A03",
+            "conjurer:A04"
+          ],
+          "passive": [
+            "conjurer:P01",
+            "conjurer:P02",
+            "conjurer:P03",
+            "conjurer:P04",
+            "conjurer:P10"
+          ],
+          "extra_active": [
+            "arcanist:A08",
+            "arcanist:A02"
+          ],
+          "extra_passive": [
+            "freelancer:P05",
+            "freelancer:P01",
+            "thaumaturge:P06",
+            "arcanist:P06",
+            "freelancer:P10"
+          ]
+        },
+        "white_mage": {
+          "active": [
+            "white_mage:A01",
+            "white_mage:A02",
+            "white_mage:A03",
+            "white_mage:A04"
+          ],
+          "passive": [
+            "white_mage:P01",
+            "white_mage:P02",
+            "white_mage:P03",
+            "white_mage:P04",
+            "white_mage:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "bishop": {
+          "active": [
+            "bishop:A01",
+            "bishop:A02",
+            "bishop:A03",
+            "bishop:A04"
+          ],
+          "passive": [
+            "bishop:P01",
+            "bishop:P02",
+            "bishop:P03",
+            "bishop:P04",
+            "bishop:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "archer": {
+          "active": [
+            "archer:A01",
+            "archer:A02",
+            "archer:A03",
+            "archer:A04"
+          ],
+          "passive": [
+            "archer:P01",
+            "archer:P02",
+            "archer:P03",
+            "archer:P04",
+            "archer:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "pugilist": {
+          "active": [
+            "pugilist:A01",
+            "pugilist:A02",
+            "pugilist:A03",
+            "pugilist:A04"
+          ],
+          "passive": [
+            "pugilist:P01",
+            "pugilist:P02",
+            "pugilist:P03",
+            "pugilist:P04",
+            "pugilist:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "lancer": {
+          "active": [
+            "lancer:A01",
+            "lancer:A02",
+            "lancer:A03",
+            "lancer:A04"
+          ],
+          "passive": [
+            "lancer:P01",
+            "lancer:P02",
+            "lancer:P03",
+            "lancer:P04",
+            "lancer:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "rogue": {
+          "active": [
+            "rogue:A01",
+            "rogue:A02",
+            "rogue:A03",
+            "rogue:A04"
+          ],
+          "passive": [
+            "rogue:P01",
+            "rogue:P02",
+            "rogue:P03",
+            "rogue:P04",
+            "rogue:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "gladiator": {
+          "active": [
+            "gladiator:A01",
+            "gladiator:A02",
+            "gladiator:A03",
+            "gladiator:A04"
+          ],
+          "passive": [
+            "gladiator:P01",
+            "gladiator:P02",
+            "gladiator:P03",
+            "gladiator:P04",
+            "gladiator:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "marauder": {
+          "active": [
+            "marauder:A01",
+            "marauder:A02",
+            "marauder:A03",
+            "marauder:A04"
+          ],
+          "passive": [
+            "marauder:P01",
+            "marauder:P02",
+            "marauder:P03",
+            "marauder:P04",
+            "marauder:P10"
+          ],
+          "extra_active": [
+            "conjurer:A02",
+            "conjurer:A06"
+          ],
+          "extra_passive": [
+            "conjurer:P01",
+            "conjurer:P06",
+            "conjurer:P09",
+            "arcanist:P01",
+            "conjurer:P10"
+          ]
+        },
+        "freelancer_t2": {
+          "active": [
+            "freelancer_t2:A01",
+            "freelancer_t2:A02",
+            "freelancer_t2:A03",
+            "freelancer_t2:A04"
+          ],
+          "passive": [
+            "freelancer_t2:P01",
+            "freelancer_t2:P02",
+            "freelancer_t2:P03",
+            "freelancer_t2:P04",
+            "freelancer_t2:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "summoner": {
+          "active": [
+            "summoner:A01",
+            "summoner:A02",
+            "summoner:A03",
+            "summoner:A04"
+          ],
+          "passive": [
+            "summoner:P01",
+            "summoner:P02",
+            "summoner:P03",
+            "summoner:P04",
+            "summoner:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {},
+      "craft": {},
+      "look": {
+        "fur": 9,
+        "pattern": 5,
+        "mark": 8,
+        "eyes": 6,
+        "tail": 2,
+        "ears": 1
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Adremalech",
+      "hero": false,
+      "level": 287,
+      "exp": 153941,
+      "cls": "monk",
+      "class_levels": {
+        "freelancer": [
+          110,
+          0
+        ],
+        "archer": [
+          100,
+          0
+        ],
+        "rogue": [
+          100,
+          0
+        ],
+        "pugilist": [
+          100,
+          0
+        ],
+        "bard": [
+          100,
+          0
+        ],
+        "hunter": [
+          100,
+          0
+        ],
+        "thaumaturge": [
+          100,
+          0
+        ],
+        "arcanist": [
+          100,
+          0
+        ],
+        "lancer": [
+          100,
+          0
+        ],
+        "conjurer": [
+          108,
+          0
+        ],
+        "gladiator": [
+          110,
+          0
+        ],
+        "marauder": [
+          110,
+          0
+        ],
+        "freelancer_t2": [
+          100,
+          0
+        ],
+        "monk": [
+          111,
+          0
+        ],
+        "warfarer": [
+          100,
+          0
+        ],
+        "black_mage": [
+          100,
+          0
+        ],
+        "time_mage": [
+          100,
+          0
+        ],
+        "summoner": [
+          100,
+          0
+        ],
+        "scholar": [
+          100,
+          0
+        ],
+        "white_monk": [
+          100,
+          0
+        ],
+        "dragoon": [
+          100,
+          0
+        ],
+        "templar": [
+          100,
+          0
+        ],
+        "ninja": [
+          100,
+          0
+        ],
+        "assassin": [
+          100,
+          0
+        ],
+        "white_mage": [
+          100,
+          0
+        ],
+        "bishop": [
+          100,
+          0
+        ],
+        "paladin": [
+          100,
+          0
+        ],
+        "spellblade": [
+          100,
+          0
+        ],
+        "warrior": [
+          100,
+          0
+        ],
+        "berserker": [
+          100,
+          0
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A04"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P03",
+            "freelancer:P08",
+            "freelancer:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "archer": {
+          "active": [
+            "archer:A01",
+            "archer:A02",
+            "archer:A03",
+            "archer:A04"
+          ],
+          "passive": [
+            "archer:P01",
+            "archer:P02",
+            "archer:P03",
+            "archer:P04",
+            "archer:P10"
+          ],
+          "extra_active": [
+            "freelancer:A10",
+            "freelancer:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P03",
+            "freelancer:P04",
+            "freelancer:P08",
+            "freelancer:P09",
+            null
+          ]
+        },
+        "rogue": {
+          "active": [
+            "rogue:A01",
+            "rogue:A02",
+            "rogue:A03",
+            "rogue:A04"
+          ],
+          "passive": [
+            "rogue:P01",
+            "rogue:P02",
+            "rogue:P03",
+            "rogue:P04",
+            "rogue:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "pugilist": {
+          "active": [
+            "pugilist:A01",
+            "pugilist:A02",
+            "pugilist:A03",
+            "pugilist:A04"
+          ],
+          "passive": [
+            "pugilist:P01",
+            "pugilist:P02",
+            "pugilist:P03",
+            "pugilist:P04",
+            "pugilist:P10"
+          ],
+          "extra_active": [
+            "freelancer:A04",
+            "freelancer:A08"
+          ],
+          "extra_passive": [
+            "freelancer:P02",
+            "freelancer:P01",
+            "archer:P01",
+            "rogue:P07",
+            "rogue:P10"
+          ]
+        },
+        "bard": {
+          "active": [
+            "bard:A07",
+            "bard:A02",
+            "bard:A03",
+            "bard:A10"
+          ],
+          "passive": [
+            "bard:P01",
+            "bard:P02",
+            "bard:P03",
+            "bard:P04",
+            "bard:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P01",
+            "archer:P09",
+            "archer:P06",
+            "archer:P02",
+            "archer:P10"
+          ]
+        },
+        "hunter": {
+          "active": [
+            "hunter:A01",
+            "hunter:A02",
+            "hunter:A03",
+            "hunter:A04"
+          ],
+          "passive": [
+            "hunter:P01",
+            "hunter:P02",
+            "hunter:P03",
+            "hunter:P04",
+            "hunter:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P02",
+            "archer:P04",
+            "archer:P06",
+            "archer:P09",
+            "archer:P10"
+          ]
+        },
+        "thaumaturge": {
+          "active": [
+            "thaumaturge:A01",
+            "thaumaturge:A02",
+            "thaumaturge:A03",
+            "thaumaturge:A04"
+          ],
+          "passive": [
+            "thaumaturge:P01",
+            "thaumaturge:P02",
+            "thaumaturge:P03",
+            "thaumaturge:P04",
+            "thaumaturge:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P02",
+            "archer:P04",
+            "archer:P06",
+            "archer:P09",
+            "archer:P10"
+          ]
+        },
+        "arcanist": {
+          "active": [
+            "arcanist:A01",
+            "arcanist:A02",
+            "arcanist:A03",
+            "arcanist:A04"
+          ],
+          "passive": [
+            "arcanist:P01",
+            "arcanist:P02",
+            "arcanist:P03",
+            "arcanist:P04",
+            "arcanist:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P02",
+            "archer:P04",
+            "archer:P06",
+            "archer:P09",
+            "archer:P10"
+          ]
+        },
+        "lancer": {
+          "active": [
+            "lancer:A01",
+            "lancer:A02",
+            "lancer:A03",
+            "lancer:A04"
+          ],
+          "passive": [
+            "lancer:P01",
+            "lancer:P02",
+            "lancer:P03",
+            "lancer:P04",
+            "lancer:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P02",
+            "archer:P04",
+            "archer:P06",
+            "archer:P09",
+            "archer:P10"
+          ]
+        },
+        "conjurer": {
+          "active": [
+            "conjurer:A01",
+            "conjurer:A02",
+            "conjurer:A03",
+            "conjurer:A04"
+          ],
+          "passive": [
+            "conjurer:P01",
+            "conjurer:P02",
+            "conjurer:P03",
+            "conjurer:P04",
+            "conjurer:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P02",
+            "archer:P04",
+            "archer:P06",
+            "archer:P09",
+            "archer:P10"
+          ]
+        },
+        "gladiator": {
+          "active": [
+            "gladiator:A01",
+            "gladiator:A02",
+            "gladiator:A03",
+            "gladiator:A04"
+          ],
+          "passive": [
+            "gladiator:P01",
+            "gladiator:P02",
+            "gladiator:P03",
+            "gladiator:P04",
+            "gladiator:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P02",
+            "archer:P04",
+            "archer:P06",
+            "archer:P09",
+            "archer:P10"
+          ]
+        },
+        "marauder": {
+          "active": [
+            "marauder:A01",
+            "marauder:A02",
+            "marauder:A03",
+            "marauder:A04"
+          ],
+          "passive": [
+            "marauder:P01",
+            "marauder:P02",
+            "marauder:P03",
+            "marauder:P04",
+            "marauder:P10"
+          ],
+          "extra_active": [
+            "archer:A10",
+            "archer:A09"
+          ],
+          "extra_passive": [
+            "archer:P02",
+            "archer:P04",
+            "archer:P06",
+            "archer:P09",
+            "archer:P10"
+          ]
+        },
+        "freelancer_t2": {
+          "active": [
+            "freelancer_t2:A01",
+            "freelancer_t2:A02",
+            "freelancer_t2:A03",
+            "freelancer_t2:A04"
+          ],
+          "passive": [
+            "freelancer_t2:P01",
+            "freelancer_t2:P02",
+            "freelancer_t2:P03",
+            "freelancer_t2:P04",
+            "freelancer_t2:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "monk": {
+          "active": [
+            "monk:A01",
+            "monk:A02",
+            "monk:A03",
+            "monk:A04"
+          ],
+          "passive": [
+            "monk:P01",
+            "monk:P02",
+            "monk:P03",
+            "monk:P04",
+            "monk:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {
+        "neck": "n_black_mage"
+      },
+      "craft": {},
+      "look": {
+        "fur": 6,
+        "pattern": 4,
+        "mark": 3,
+        "eyes": 0,
+        "tail": 2,
+        "ears": 2
+      },
+      "loadout_version": 2
+    },
+    {
+      "name": "Beiner",
+      "hero": false,
+      "level": 286,
+      "exp": 33757,
+      "cls": "dragoon",
+      "class_levels": {
+        "freelancer": [
+          100,
+          0
+        ],
+        "lancer": [
+          100,
+          0
+        ],
+        "marauder": [
+          100,
+          0
+        ],
+        "warrior": [
+          100,
+          0
+        ],
+        "berserker": [
+          100,
+          0
+        ],
+        "gladiator": [
+          100,
+          0
+        ],
+        "archer": [
+          105,
+          0
+        ],
+        "thaumaturge": [
+          100,
+          0
+        ],
+        "arcanist": [
+          109,
+          0
+        ],
+        "conjurer": [
+          110,
+          0
+        ],
+        "rogue": [
+          111,
+          0
+        ],
+        "pugilist": [
+          111,
+          0
+        ],
+        "freelancer_t2": [
+          100,
+          0
+        ],
+        "dragoon": [
+          111,
+          0
+        ],
+        "warfarer": [
+          100,
+          0
+        ],
+        "bard": [
+          100,
+          0
+        ],
+        "hunter": [
+          100,
+          0
+        ],
+        "black_mage": [
+          100,
+          0
+        ],
+        "time_mage": [
+          100,
+          0
+        ],
+        "summoner": [
+          100,
+          0
+        ],
+        "scholar": [
+          100,
+          0
+        ],
+        "monk": [
+          100,
+          0
+        ],
+        "white_monk": [
+          100,
+          0
+        ],
+        "templar": [
+          100,
+          0
+        ],
+        "ninja": [
+          100,
+          0
+        ],
+        "assassin": [
+          100,
+          0
+        ],
+        "white_mage": [
+          100,
+          0
+        ],
+        "bishop": [
+          100,
+          0
+        ],
+        "paladin": [
+          100,
+          0
+        ],
+        "spellblade": [
+          100,
+          0
+        ]
+      },
+      "active": true,
+      "loadouts": {
+        "freelancer": {
+          "active": [
+            "freelancer:A01",
+            "freelancer:A02",
+            "freelancer:A03",
+            "freelancer:A04"
+          ],
+          "passive": [
+            "freelancer:P01",
+            "freelancer:P02",
+            "freelancer:P03",
+            "freelancer:P04",
+            "freelancer:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "lancer": {
+          "active": [
+            "lancer:A01",
+            "lancer:A02",
+            "lancer:A03",
+            "lancer:A04"
+          ],
+          "passive": [
+            "lancer:P01",
+            "lancer:P02",
+            "lancer:P03",
+            "lancer:P04",
+            "lancer:P10"
+          ],
+          "extra_active": [
+            "freelancer:A05",
+            "freelancer:A03"
+          ],
+          "extra_passive": [
+            "freelancer:P02",
+            "freelancer:P04",
+            "freelancer:P01",
+            "freelancer:P06",
+            "freelancer:P10"
+          ]
+        },
+        "marauder": {
+          "active": [
+            "marauder:A01",
+            "marauder:A02",
+            "marauder:A03",
+            "marauder:A04"
+          ],
+          "passive": [
+            "marauder:P01",
+            "marauder:P02",
+            "marauder:P03",
+            "marauder:P04",
+            "marauder:P10"
+          ],
+          "extra_active": [
+            "freelancer:A08",
+            "freelancer:A04"
+          ],
+          "extra_passive": [
+            "freelancer:P01",
+            "freelancer:P03",
+            "freelancer:P06",
+            "freelancer:P05",
+            "freelancer:P10"
+          ]
+        },
+        "warrior": {
+          "active": [
+            "warrior:A01",
+            "warrior:A02",
+            "warrior:A03",
+            "warrior:A04"
+          ],
+          "passive": [
+            "warrior:P01",
+            "warrior:P02",
+            "warrior:P03",
+            "warrior:P04",
+            "warrior:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "berserker": {
+          "active": [
+            "berserker:A01",
+            "berserker:A02",
+            "berserker:A03",
+            "berserker:A04"
+          ],
+          "passive": [
+            "berserker:P01",
+            "berserker:P02",
+            "berserker:P03",
+            "berserker:P04",
+            "berserker:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "gladiator": {
+          "active": [
+            "gladiator:A01",
+            "gladiator:A02",
+            "gladiator:A03",
+            "gladiator:A04"
+          ],
+          "passive": [
+            "gladiator:P01",
+            "gladiator:P02",
+            "gladiator:P03",
+            "gladiator:P04",
+            "gladiator:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "archer": {
+          "active": [
+            "archer:A01",
+            "archer:A02",
+            "archer:A03",
+            "archer:A04"
+          ],
+          "passive": [
+            "archer:P01",
+            "archer:P02",
+            "archer:P03",
+            "archer:P04",
+            "archer:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "thaumaturge": {
+          "active": [
+            "thaumaturge:A01",
+            "thaumaturge:A02",
+            "thaumaturge:A03",
+            "thaumaturge:A04"
+          ],
+          "passive": [
+            "thaumaturge:P01",
+            "thaumaturge:P02",
+            "thaumaturge:P03",
+            "thaumaturge:P04",
+            "thaumaturge:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "arcanist": {
+          "active": [
+            "arcanist:A01",
+            "arcanist:A02",
+            "arcanist:A03",
+            "arcanist:A04"
+          ],
+          "passive": [
+            "arcanist:P01",
+            "arcanist:P02",
+            "arcanist:P03",
+            "arcanist:P04",
+            "arcanist:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "conjurer": {
+          "active": [
+            "conjurer:A01",
+            "conjurer:A02",
+            "conjurer:A03",
+            "conjurer:A04"
+          ],
+          "passive": [
+            "conjurer:P01",
+            "conjurer:P02",
+            "conjurer:P03",
+            "conjurer:P04",
+            "conjurer:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "rogue": {
+          "active": [
+            "rogue:A01",
+            "rogue:A02",
+            "rogue:A03",
+            "rogue:A04"
+          ],
+          "passive": [
+            "rogue:P01",
+            "rogue:P02",
+            "rogue:P03",
+            "rogue:P04",
+            "rogue:P10"
+          ],
+          "extra_active": [
+            "marauder:A10",
+            "marauder:A09"
+          ],
+          "extra_passive": [
+            "marauder:P02",
+            "marauder:P04",
+            "marauder:P01",
+            "marauder:P03",
+            "marauder:P10"
+          ]
+        },
+        "pugilist": {
+          "active": [
+            "pugilist:A01",
+            "pugilist:A02",
+            "pugilist:A03",
+            "pugilist:A04"
+          ],
+          "passive": [
+            "pugilist:P01",
+            "pugilist:P02",
+            "pugilist:P03",
+            "pugilist:P04",
+            "pugilist:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "freelancer_t2": {
+          "active": [
+            "freelancer_t2:A01",
+            "freelancer_t2:A02",
+            "freelancer_t2:A03",
+            "freelancer_t2:A04"
+          ],
+          "passive": [
+            "freelancer_t2:P01",
+            "freelancer_t2:P02",
+            "freelancer_t2:P03",
+            "freelancer_t2:P04",
+            "freelancer_t2:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "dragoon": {
+          "active": [
+            "dragoon:A01",
+            "dragoon:A02",
+            "dragoon:A03",
+            "dragoon:A04"
+          ],
+          "passive": [
+            "dragoon:P01",
+            "dragoon:P02",
+            "dragoon:P03",
+            "dragoon:P04",
+            "dragoon:P10"
+          ],
+          "extra_active": [
+            null,
+            null
+          ],
+          "extra_passive": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "acc": {
+        "neck": "n_archer",
+        "bracer": "b_pyre",
+        "trinket1": "t_storm"
+      },
+      "craft": {},
+      "look": {
+        "fur": 6,
+        "pattern": 5,
+        "mark": 1,
+        "eyes": 5,
+        "tail": 0,
+        "ears": 1
+      },
+      "loadout_version": 2
+    }
+  ]
+}
